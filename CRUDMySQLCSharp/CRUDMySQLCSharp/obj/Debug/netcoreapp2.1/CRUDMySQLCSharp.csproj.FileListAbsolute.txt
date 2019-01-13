@@ -1,0 +1,11 @@
+/Users/xcheko51x/Projects/CRUDMySQLCSharp/CRUDMySQLCSharp/bin/Debug/netcoreapp2.1/CRUDMySQLCSharp.deps.json
+/Users/xcheko51x/Projects/CRUDMySQLCSharp/CRUDMySQLCSharp/bin/Debug/netcoreapp2.1/CRUDMySQLCSharp.runtimeconfig.json
+/Users/xcheko51x/Projects/CRUDMySQLCSharp/CRUDMySQLCSharp/bin/Debug/netcoreapp2.1/CRUDMySQLCSharp.runtimeconfig.dev.json
+/Users/xcheko51x/Projects/CRUDMySQLCSharp/CRUDMySQLCSharp/bin/Debug/netcoreapp2.1/CRUDMySQLCSharp.dll
+/Users/xcheko51x/Projects/CRUDMySQLCSharp/CRUDMySQLCSharp/bin/Debug/netcoreapp2.1/CRUDMySQLCSharp.pdb
+/Users/xcheko51x/Projects/CRUDMySQLCSharp/CRUDMySQLCSharp/obj/Debug/netcoreapp2.1/CRUDMySQLCSharp.csprojAssemblyReference.cache
+/Users/xcheko51x/Projects/CRUDMySQLCSharp/CRUDMySQLCSharp/obj/Debug/netcoreapp2.1/CRUDMySQLCSharp.csproj.CoreCompileInputs.cache
+/Users/xcheko51x/Projects/CRUDMySQLCSharp/CRUDMySQLCSharp/obj/Debug/netcoreapp2.1/CRUDMySQLCSharp.AssemblyInfoInputs.cache
+/Users/xcheko51x/Projects/CRUDMySQLCSharp/CRUDMySQLCSharp/obj/Debug/netcoreapp2.1/CRUDMySQLCSharp.AssemblyInfo.cs
+/Users/xcheko51x/Projects/CRUDMySQLCSharp/CRUDMySQLCSharp/obj/Debug/netcoreapp2.1/CRUDMySQLCSharp.dll
+/Users/xcheko51x/Projects/CRUDMySQLCSharp/CRUDMySQLCSharp/obj/Debug/netcoreapp2.1/CRUDMySQLCSharp.pdb
